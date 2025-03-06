@@ -1,1 +1,1 @@
-# Portfolio
+git rm скрин.jpg
